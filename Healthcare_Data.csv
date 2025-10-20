@@ -1,0 +1,202 @@
+name,age,gender,bmi,children,smoking_status,location,insurance_price_usd
+John Smith,35,Male,30,0,Non-Smoker,New York,16450
+Emily Johnson,42,Female,27,2,Non-Smoker,Los Angeles,21600
+Michael Williams,50,Male,31,3,Smoker,Chicago,21080
+Sarah Brown,28,Female,22,1,Non-Smoker,Houston,10080
+David Jones,39,Male,28,2,Non-Smoker,Phoenix,17640
+Jennifer Martinez,45,Female,30,0,Non-Smoker,Philadelphia,18000
+Daniel Anderson,33,Male,26,1,Non-Smoker,San Antonio,11520
+Jessica Wilson,37,Female,27,2,Smoker,San Diego,16120
+Matthew Taylor,47,Male,33,3,Non-Smoker,Dallas,19720
+Emma Garcia,31,Female,25,0,Non-Smoker,San Jose,11100
+Christopher Rodriguez,40,Male,31,2,Non-Smoker,Austin,18920
+Olivia Hernandez,29,Female,24,1,Non-Smoker,Jacksonville,11020
+James Martinez,48,Male,33,3,Smoker,San Francisco,18600
+Sophia Thompson,36,Female,28,0,Non-Smoker,Indianapolis,15960
+David Lopez,43,Male,30,2,Non-Smoker,Columbus,17550
+Isabella Perez,32,Female,25,1,Non-Smoker,Fort Worth,10540
+Daniel Scott,39,Male,28,3,Smoker,Charlotte,20100
+Amelia Moore,41,Female,32,0,Non-Smoker,Seattle,19600
+Michael Wilson,46,Male,34,2,Non-Smoker,Denver,17280
+Mia Taylor,30,Female,26,1,Non-Smoker,Detroit,12210
+Ethan Harris,44,Male,30,3,Smoker,Washington,28980
+Ava Martin,35,Female,29,0,Non-Smoker,Boston,12210
+Alexander King,49,Male,34,2,Non-Smoker,Nashville,25760
+Chloe Lee,34,Female,26,1,Non-Smoker,Memphis,9600
+William White,38,Male,26,2,Smoker,Portland,30550
+Abigail Allen,27,Female,25,0,Non-Smoker,Oklahoma City,13050
+Ryan Hall,52,Male,35,3,Smoker,Las Vegas,23760
+Harper Young,33,Female,28,1,Non-Smoker,Louisville,13940
+Benjamin Hernandez,50,Male,32,2,Non-Smoker,Baltimore,21830
+Evelyn Garcia,39,Female,29,0,Non-Smoker,Milwaukee,19270
+Lucas Martinez,47,Male,33,3,Smoker,Albuquerque,22400
+Zoe Scott,31,Female,27,1,Non-Smoker,Tucson,16100
+Aiden Adams,45,Male,30,2,Non-Smoker,Fresno,25080
+Nora Wood,37,Female,28,0,Non-Smoker,Sacramento,14430
+Jackson Mitchell,48,Male,34,3,Smoker,Mesa,30530
+Leah Price,29,Female,25,1,Non-Smoker,Atlanta,9900
+Logan Carter,51,Male,35,2,Non-Smoker,Kansas City,22200
+Avery Cooper,32,Female,27,0,Non-Smoker,Miami,15480
+Henry Rivera,46,Male,31,3,Smoker,Long Beach,24480
+Ella Richardson,36,Female,29,1,Non-Smoker,Virginia Beach,12000
+David Perez,49,Male,33,2,Non-Smoker,Oakland,28060
+Scarlett Ross,38,Female,28,0,Non-Smoker,Tulsa,14060
+Jack Ward,53,Male,35,3,Smoker,Tampa,32120
+Lily Morris,34,Female,26,1,Non-Smoker,Arlington,15640
+Lucas Baker,48,Male,32,2,Non-Smoker,Wichita,20880
+Sophia Foster,30,Female,26,0,Non-Smoker,New Orleans,11840
+Robert Davis,55,Male,32,1,Smoker,New York,38500
+Olivia White,25,Female,22,0,Non-Smoker,Boston,9800
+William Baker,41,Male,29,3,Non-Smoker,Atlanta,19350
+Sophia Hall,60,Female,27,2,Smoker,Los Angeles,45100
+James King,30,Male,24,0,Non-Smoker,Chicago,11200
+Christopher Ryan,44,Male,29,2,Non-Smoker,Phoenix,19100
+Samantha Lee,36,Female,24,1,Non-Smoker,Seattle,14800
+Andrew Foster,52,Male,34,0,Smoker,Miami,40500
+Natalie Perry,29,Female,22,0,Non-Smoker,Portland,10550
+Tyler Johnson,48,Male,32,3,Non-Smoker,Denver,21900
+Lauren Campbell,40,Female,26,2,Non-Smoker,Minneapolis,17000
+Kevin Mitchell,58,Male,30,1,Smoker,Chicago,42200
+Madison Reed,33,Female,25,0,Non-Smoker,San Diego,12900
+Joshua Green,47,Male,29,4,Non-Smoker,Dallas,20850
+Victoria Hill,26,Female,21,1,Non-Smoker,Houston,9600
+Eric Nelson,55,Male,33,2,Smoker,New York,43800
+Chloe Turner,38,Female,27,3,Non-Smoker,Atlanta,16550
+Adam Carter,41,Male,25,1,Non-Smoker,Boston,17800
+Sophia Perez,62,Female,31,0,Smoker,Los Angeles,46100
+Noah Scott,30,Male,23,0,Non-Smoker,San Antonio,11500
+Isabella Wright,50,Female,29,4,Non-Smoker,Phoenix,21950
+Ethan Baker,34,Male,27,2,Non-Smoker,Philadelphia,14250
+Avery Lewis,45,Female,29,1,Smoker,Washington,35200
+Gabriel Hall,59,Male,36,3,Non-Smoker,Miami,29800
+Mia Clark,22,Female,20,0,Non-Smoker,San Jose,8800
+Samuel Rodriguez,53,Male,28,1,Non-Smoker,Denver,23000
+Harper Young,37,Female,25,2,Non-Smoker,Columbus,15450
+David Evans,49,Male,33,0,Smoker,Houston,37100
+Ella Miller,28,Female,22,1,Non-Smoker,Dallas,10200
+Henry Adams,60,Male,31,2,Non-Smoker,San Francisco,27500
+Leo Martinez,46,Male,30,2,Non-Smoker,San Antonio,20500
+Grace Thompson,32,Female,24,0,Non-Smoker,San Jose,12050
+Max Clark,51,Male,32,3,Smoker,Philadelphia,41200
+Amelia Wilson,27,Female,21,1,Non-Smoker,Houston,9900
+Owen Davies,38,Male,28,4,Non-Smoker,Phoenix,16800
+Chloe King,43,Female,27,1,Non-Smoker,Dallas,18550
+Elijah Scott,56,Male,34,0,Smoker,Los Angeles,44800
+Stella Adams,35,Female,26,2,Non-Smoker,Chicago,14900
+Henry Brooks,61,Male,30,1,Non-Smoker,New York,28500
+Penelope Baker,24,Female,21,0,Non-Smoker,San Diego,9150
+Julian Hall,40,Male,27,3,Non-Smoker,San Antonio,17650
+Zoe Morgan,49,Female,31,2,Smoker,New York,38900
+Wyatt Carter,33,Male,25,1,Non-Smoker,Houston,13200
+Ruby Evans,54,Female,32,0,Non-Smoker,Philadelphia,24100
+Oliver Price,48,Male,35,5,Smoker,Dallas,40150
+Hannah Green,29,Female,23,0,Non-Smoker,Phoenix,11000
+Isaac White,37,Male,27,2,Non-Smoker,Chicago,16100
+Mia Davis,42,Female,27,3,Non-Smoker,San Jose,17950
+Caleb Ross,50,Male,31,1,Smoker,Los Angeles,40800
+Ava Perez,63,Female,28,4,Non-Smoker,San Diego,29500
+Logan Young,36,Male,26,0,Non-Smoker,New York,14500
+Eleanor Flores,45,Female,30,2,Non-Smoker,Houston,19800
+Nathan Harris,57,Male,35,3,Smoker,Chicago,45500
+Scarlett King,31,Female,24,1,Non-Smoker,Dallas,12550
+Jacob Lewis,41,Male,28,0,Non-Smoker,Phoenix,17400
+Layla Taylor,52,Female,34,1,Non-Smoker,San Jose,23400
+Dylan Miller,39,Male,26,4,Non-Smoker,Philadelphia,17100
+Violet Nelson,26,Female,22,0,Non-Smoker,San Antonio,9400
+Ethan Brown,55,Male,33,2,Smoker,New York,44100
+Aria Cooper,34,Female,26,1,Non-Smoker,Los Angeles,14150
+Samuel Walker,44,Male,29,3,Non-Smoker,San Diego,19500
+Hazel Smith,58,Female,28,0,Non-Smoker,Chicago,26500
+Connor Lee,47,Male,31,1,Smoker,Houston,36800
+Skylar Adams,30,Female,23,2,Non-Smoker,Phoenix,11800
+Ryan Chen,53,Male,32,4,Non-Smoker,Dallas,23800
+Madeline Baker,60,Female,34,3,Smoker,Philadelphia,45900
+Gabriel Evans,32,Male,25,0,Non-Smoker,San Antonio,13000
+Lucy Harris,48,Female,30,1,Non-Smoker,San Jose,20550
+Jack Turner,59,Male,36,2,Smoker,Los Angeles,46500
+Bella Lopez,25,Female,22,0,Non-Smoker,New York,9250
+Daniel Perez,40,Male,28,5,Non-Smoker,San Diego,18100
+Aurora White,51,Female,31,3,Non-Smoker,Houston,22700
+Victor Nguyen,43,Male,29,1,Smoker,Chicago,35250
+Willow Clark,37,Female,26,2,Non-Smoker,Phoenix,15850
+Andrew Scott,56,Male,31,0,Non-Smoker,Dallas,25500
+Sophie Walker,61,Female,29,4,Smoker,San Antonio,45500
+Kenneth Hall,35,Male,25,1,Non-Smoker,Philadelphia,13900
+Evelyn King,46,Female,28,0,Non-Smoker,San Jose,19000
+Jason Hill,54,Male,33,3,Non-Smoker,New York,24500
+Grace Adams,28,Female,23,1,Non-Smoker,Los Angeles,10500
+Robert Johnson,49,Male,31,2,Non-Smoker,Houston,22500
+Ashley Martin,33,Female,24,1,Non-Smoker,San Diego,13400
+William Garcia,55,Male,35,3,Smoker,New York,44500
+Jessica Rodriguez,29,Female,22,0,Non-Smoker,Dallas,10800
+Christopher Lee,42,Male,29,4,Non-Smoker,Phoenix,18700
+Amanda White,50,Female,30,1,Smoker,Los Angeles,40950
+Michael Baker,36,Male,27,0,Non-Smoker,Chicago,15200
+Emily Taylor,62,Female,33,2,Non-Smoker,San Jose,29100
+Daniel Hall,47,Male,30,1,Non-Smoker,San Antonio,21200
+Sarah Chen,25,Female,22,0,Non-Smoker,Philadelphia,9300
+Matthew Harris,58,Male,35,5,Smoker,Houston,45800
+Laura Adams,40,Female,27,3,Non-Smoker,Phoenix,17500
+James Nelson,31,Male,24,2,Non-Smoker,Dallas,12600
+Michelle Perez,53,Female,32,0,Non-Smoker,San Diego,23900
+David King,60,Male,33,1,Smoker,Chicago,46000
+Lisa Wright,35,Female,26,0,Non-Smoker,New York,14300
+Joseph Martinez,44,Male,29,4,Non-Smoker,Los Angeles,19600
+Nicole Evans,28,Female,23,1,Non-Smoker,San Antonio,10700
+Eric Young,51,Male,32,2,Non-Smoker,San Jose,22900
+Melissa Green,46,Female,29,3,Smoker,Philadelphia,37800
+Adam Clark,39,Male,28,0,Non-Smoker,New York,16900
+Kelly Lopez,57,Female,26,1,Non-Smoker,Houston,25800
+Steven Scott,34,Male,25,1,Non-Smoker,Phoenix,13800
+Tina Lewis,54,Female,33,4,Smoker,Dallas,42500
+George Hill,41,Male,28,0,Non-Smoker,San Diego,17900
+Maria Carter,30,Female,24,2,Non-Smoker,Chicago,11900
+Brian Walker,59,Male,34,3,Non-Smoker,San Antonio,26800
+Alice Rivera,43,Female,28,1,Smoker,San Jose,35200
+Kevin Perez,48,Male,31,2,Non-Smoker,Philadelphia,21800
+Diana Baker,27,Female,22,0,Non-Smoker,New York,10100
+Ryan Chen,52,Male,32,4,Non-Smoker,Los Angeles,23500
+Tracy Miller,38,Female,27,1,Non-Smoker,Houston,16200
+Scott Wilson,61,Male,33,0,Smoker,Phoenix,46500
+Monica Hall,45,Female,30,3,Non-Smoker,Dallas,19900
+Jeffrey Adams,32,Male,25,1,Non-Smoker,San Diego,13000
+Cynthia Green,56,Female,34,2,Non-Smoker,Chicago,25200
+Paul Lewis,40,Male,27,5,Smoker,San Antonio,34800
+Donna Young,26,Female,21,0,Non-Smoker,San Jose,9500
+Mark White,50,Male,32,3,Non-Smoker,Philadelphia,22550
+Susan Harris,47,Female,28,1,Non-Smoker,New York,20500
+Jason Lee,54,Male,34,2,Smoker,Los Angeles,43100
+Gloria Clark,39,Female,27,0,Non-Smoker,Houston,17100
+Gary Taylor,46,Male,30,4,Non-Smoker,Phoenix,20900
+Ruth Walker,63,Female,31,1,Smoker,Dallas,46800
+Terry Rodriguez,37,Male,26,2,Non-Smoker,San Diego,15500
+Jane King,31,Female,24,0,Non-Smoker,Chicago,12300
+Larry Wilson,57,Male,33,1,Non-Smoker,San Antonio,26000
+Brenda Davis,42,Female,27,3,Smoker,San Jose,34900
+Phillip Moore,45,Male,29,2,Non-Smoker,Philadelphia,19400
+Cheryl Scott,29,Female,22,1,Non-Smoker,New York,10900
+Victor Hall,53,Male,31,0,Non-Smoker,Los Angeles,23100
+Pamela Allen,50,Female,31,4,Non-Smoker,Houston,21500
+Wayne Baker,36,Male,27,3,Smoker,Phoenix,34200
+Helen Perez,34,Female,25,0,Non-Smoker,Dallas,13600
+Jerry Adams,48,Male,30,1,Non-Smoker,San Diego,21500
+Carol Evans,55,Female,34,2,Smoker,Chicago,43500
+Alan Lewis,41,Male,28,0,Non-Smoker,San Antonio,17700
+Judy Nelson,27,Female,22,1,Non-Smoker,San Jose,9800
+Ken Turner,52,Male,32,3,Non-Smoker,Philadelphia,23300
+Betty Clark,60,Female,30,0,Non-Smoker,New York,27800
+Alice Baker,30,Female,23,0,Non-Smoker,Houston,11500
+Ben Carter,56,Male,34,2,Smoker,San Jose,44900
+Clara Dixon,41,Female,28,3,Non-Smoker,New York,18200
+Dean Fisher,64,Male,31,1,Non-Smoker,Chicago,29900
+Eve Grant,22,Female,21,0,Non-Smoker,Dallas,8900
+Frank Hines,49,Male,31,4,Smoker,Philadelphia,40500
+Gina Irwin,35,Female,26,1,Non-Smoker,Phoenix,14800
+Hugh Jones,51,Male,33,0,Non-Smoker,Los Angeles,23100
+Ivy Klein,44,Female,28,2,Non-Smoker,San Antonio,19200
+Kyle Lane,37,Male,27,5,Non-Smoker,San Diego,15800
+Lois Mead,59,Female,35,3,Smoker,Houston,45500
+Mitch Nash,43,Male,29,1,Non-Smoker,New York,18900
+Nora Owens,28,Female,22,0,Non-Smoker,Chicago,10400
+Paul Quinn,55,Male,32,2,Non-Smoker,Dallas,24800
+Rita Stone,32,Female,25,1,Non-Smoker,Philadelphia,13100

@@ -1,0 +1,201 @@
+name,city,income,credit_score,loan_amount,year_employed,points,loan_approved
+Allison Hill,East Jill,113810,389,39698,27,50,FALSE
+Brandon Hall,New Jamesside,44592,729,15446,28,55,FALSE
+Rhonda Smith,Lake Roberto,33278,584,11189,13,45,FALSE
+Gabrielle Davis,West Melanieview,127196,344,48823,29,50,FALSE
+Valerie Gray,Mariastad,66048,496,47174,4,25,FALSE
+Darren Roberts,Port Jesseville,62098,689,19217,29,65,TRUE
+Holly Wood,Lake Joseph,59256,373,40920,40,35,FALSE
+Nicholas Martin,Nelsonside,48289,524,45866,20,25,FALSE
+Patty Perez,Port Leslieview,126530,367,14826,36,55,FALSE
+Emily Rios,Wilkersonmouth,43434,446,18359,8,20,FALSE
+Justin Baker,Hurstfurt,118696,670,15373,8,75,TRUE
+Ann Williams,East Courtneychester,127080,365,26216,24,55,FALSE
+Julie King,Lake Jenniferside,146939,573,43006,21,50,FALSE
+Jeffrey Chavez,Teresaburgh,101482,819,7973,40,100,TRUE
+Mark Lynch,West Kathryn,41395,843,1037,38,80,TRUE
+Alec Hickman,Johnbury,107397,380,6613,31,60,TRUE
+Vanessa Patel,East Donna,85302,469,18370,33,50,FALSE
+Jenny Lewis,Lake Larry,34165,682,29711,33,50,FALSE
+David Brown,New Angelashire,33905,525,1471,4,30,FALSE
+Amy Jones,Port Markhaven,42280,543,19250,31,25,FALSE
+Carlos Walls,Sanchezfort,58657,716,13478,6,65,TRUE
+Jeffrey Henderson,Shieldston,60495,400,4972,25,50,FALSE
+Rebecca Rodriguez,East Amanda,96237,443,28648,11,45,FALSE
+David Leblanc,Mortonside,108907,400,4315,34,60,TRUE
+Tracy House,East Richard,33478,792,15008,25,60,TRUE
+Carmen Smith,Bakermouth,103563,592,28722,35,65,TRUE
+Katelyn Lee,North Beth,56062,362,21552,3,30,FALSE
+John Calhoun,North Susan,123850,382,13178,4,45,FALSE
+Megan Young,New Johnton,115181,383,28474,37,55,FALSE
+Emily Green,Johnfurt,121924,434,45019,19,50,FALSE
+Timothy Walls,South Christineshire,101426,402,5801,34,60,TRUE
+Derek Mahoney,East Mikeburgh,84987,748,36600,19,75,TRUE
+Victoria Valdez,Lake Lisaport,58893,406,9800,16,45,FALSE
+Brian Tran,Juanborough,88878,651,14342,40,65,TRUE
+Kathy King,North Cynthiaview,107236,345,1232,21,60,TRUE
+Mandy Green,Arnoldchester,66463,309,8331,4,35,FALSE
+Melissa Hernandez,Port Mikeside,136093,451,29166,8,50,FALSE
+Jacob Fitzpatrick,West Jasonbury,143940,405,24178,35,55,FALSE
+Jennifer Oliver,East Michelle,30851,481,28020,1,10,FALSE
+Tim Patton,Phambury,129458,573,11433,6,55,FALSE
+Andrew Ruiz,Port Samantha,135620,658,21000,14,70,TRUE
+Matthew Ross,Michelleview,50926,659,43040,32,50,FALSE
+William Herrera,North Natalieview,121506,482,39049,16,50,FALSE
+Kyle Reed,Samuelhaven,85392,418,26244,36,45,FALSE
+Andrew Graham,West Ryan,74597,638,41839,20,50,FALSE
+Belinda Mccullough,Elizabethmouth,66421,712,46692,18,60,TRUE
+Cheryl Ortega,Byrdburgh,50379,608,27612,35,50,FALSE
+Elizabeth Clark,Stevenmouth,58221,518,34500,30,35,FALSE
+Toni Fitzgerald,West Zacharymouth,130072,395,16392,19,55,FALSE
+Curtis Johnson,South Cheryl,74118,374,30846,26,35,FALSE
+Laura Higgins,Snyderbury,43396,451,43995,0,10,FALSE
+Shannon Mcclure,Robinsonhaven,42156,775,4291,35,70,TRUE
+Ryan Bryant,Contrerasside,79797,624,30004,39,60,TRUE
+Stephanie Simmons,Merrittfort,42676,760,17986,15,60,TRUE
+Destiny Strickland,Simsview,77052,750,6077,18,90,TRUE
+George Orozco,East Edwardfurt,141082,456,47295,13,50,FALSE
+Jason Daniels,Brownchester,75082,698,39278,1,50,FALSE
+Pamela James,West Kennethfurt,109131,729,36272,34,75,TRUE
+Stephanie Freeman,Ryantown,64671,698,23028,25,65,TRUE
+Sara Calhoun,South Brittanytown,135791,385,43123,27,50,FALSE
+Joel Williams,Murphymouth,35695,634,23118,24,40,FALSE
+Trevor Fisher,South Andrewside,125647,353,23935,14,55,FALSE
+Rachael Pearson,East Jamestown,90217,456,16633,8,45,FALSE
+Brian Gould,Lyonsstad,100284,471,40707,38,45,FALSE
+Michelle Strickland,West Daniel,46361,326,21444,36,25,FALSE
+Tina Sanders,North Brittany,79615,548,7678,19,55,FALSE
+Lindsay Martinez,West Amandastad,40328,370,34158,21,25,FALSE
+Jason Henry,Yumouth,102357,456,29540,11,50,FALSE
+Tracie Nelson,Marshallshire,68427,574,22122,15,40,FALSE
+Angelica Keith,Port Steven,138711,688,23046,1,65,TRUE
+Frederick Freeman MD,Matthewview,112397,310,34857,12,50,FALSE
+Nathan Freeman,Lake Thomas,111070,802,30371,1,75,TRUE
+Daniel Holt,Elizabethstad,146057,784,37272,33,85,TRUE
+Zachary Pierce,Jacquelineview,142945,613,17475,14,70,TRUE
+Corey Wilson,East Javier,77400,795,19120,37,85,TRUE
+Kelly Campbell,Port Jamesbury,105674,669,12759,19,70,TRUE
+Joseph Hill,New Kellyberg,55203,802,7723,0,70,TRUE
+Julie Alexander,North Johnny,122349,789,8476,4,85,TRUE
+Benjamin Soto,East Edwardshire,39116,611,6582,15,50,FALSE
+Phillip Obrien,Port Alexandra,36006,761,30014,19,60,TRUE
+Wanda Torres,New Susanville,116673,512,41993,13,50,FALSE
+Brad Allen,East Aaronmouth,59871,781,20087,2,65,TRUE
+Michael Warner,Jonesbury,131327,570,41963,37,50,FALSE
+Taylor Coleman,Lake Edward,67930,572,10321,4,35,FALSE
+Ricky Larson,Scottmouth,40458,611,46857,25,40,FALSE
+Kathryn Snyder,New Billchester,142108,630,40564,16,65,TRUE
+Darryl Craig,Port Emilyview,60512,341,12481,30,45,FALSE
+Jessica Ramirez,Waltersfort,143571,393,31802,22,55,FALSE
+Frank Garcia,West Robert,43238,807,19888,25,65,TRUE
+Krista Gibson,Johnnyville,79823,713,34724,0,50,FALSE
+Kimberly Gutierrez,New Michael,66434,810,41986,28,75,TRUE
+Christina Dunn,Samuelfort,89429,424,2891,40,55,FALSE
+Cynthia Moore,New Rickybury,113320,416,31241,7,45,FALSE
+Brittany Cantu,Williamview,139328,725,32621,30,80,TRUE
+Juan Reyes,Port Chad,77819,724,23274,32,70,TRUE
+Aaron Barber,Grimesmouth,51319,795,23618,21,70,TRUE
+Kimberly Gibson,Mollybury,78520,692,16306,26,75,TRUE
+Patrick Thornton,Hughesberg,76566,807,3426,8,90,TRUE
+Leslie Kane,Garciamouth,57460,315,48346,9,30,FALSE
+Matthew Moore,Harringtonview,117841,646,41845,25,65,TRUE
+Sarah Phelps,Finleyfort,64993,336,41465,4,25,FALSE
+Michael Mitchell,Lake Christopher,121988,400,42533,6,45,FALSE
+Michael Berger,West Lauraport,119593,667,25565,27,70,TRUE
+Joseph Knight,East Gregory,114939,691,41613,15,75,TRUE
+Mr. David Little MD,Port Stevenport,39358,461,5840,28,35,FALSE
+Victoria Evans,Vaughnmouth,109840,609,14055,24,70,TRUE
+Ashley James,Baileyport,113227,322,44137,25,50,FALSE
+Keith Jennings,New Julieport,52431,535,40784,22,35,FALSE
+Connor King,Lake Colton,100010,340,21246,28,55,FALSE
+Jacob Anderson,Markchester,125568,479,14159,8,50,FALSE
+Sherri Diaz,Mariaview,62087,793,20342,21,75,TRUE
+Julie Jones,Port Erica,51417,706,37524,23,60,TRUE
+James Baker,South Miguelview,90589,690,42847,23,65,TRUE
+David Johnson,Rosebury,79735,364,42641,29,40,FALSE
+Elizabeth Ortiz,North Sophia,65382,611,33284,7,45,FALSE
+Stephen Taylor,Watsonside,113886,729,39491,9,70,TRUE
+Mary Bass,Crosbyview,120198,333,46238,23,50,FALSE
+Jeremy Young,Corystad,103000,667,4968,25,75,TRUE
+Walter Rush,Davisborough,58785,321,4314,21,50,FALSE
+Cameron Cunningham,Port Kathyborough,119733,521,16269,21,55,FALSE
+Rachel Carlson,Micheleberg,72504,433,36403,16,35,FALSE
+Ashley Delacruz,North Michael,140474,543,39591,20,50,FALSE
+Derek Martinez,Foxland,130704,787,30378,23,90,TRUE
+Ashley Gordon,Lake Kristahaven,131711,608,31018,1,55,FALSE
+John Morales,South Jennifermouth,37331,375,6294,20,35,FALSE
+Ana Hill,Oscarhaven,60021,601,30734,32,50,FALSE
+Annette Miles,South Shannon,137715,533,28119,21,55,FALSE
+Jennifer Blair,Ronaldview,34207,683,11003,30,55,FALSE
+Ronald Davis,Lake Joanneberg,135518,361,39434,35,50,FALSE
+Meagan Jenkins,Parrishton,71347,594,40348,19,50,FALSE
+Kenneth Lewis,Walkerville,82581,658,37455,23,55,FALSE
+Donald Perez,Bruceside,65093,326,40911,17,35,FALSE
+Donald Farmer,Michaelburgh,38675,446,38114,25,25,FALSE
+Patrick Bonilla,Lake Alyssafurt,57653,729,30730,21,60,TRUE
+Eric Nguyen,North Ericton,149686,383,18832,28,55,FALSE
+Karla Ramos,Jasonhaven,104341,416,23621,27,55,FALSE
+Michael Watkins,Brandonfurt,144867,356,1503,13,60,TRUE
+Daniel Taylor,Keithville,124098,307,33596,27,50,FALSE
+James Padilla,Charleston,71245,746,2228,29,85,TRUE
+Shannon Johnston,Mckinneychester,57869,596,8548,25,60,TRUE
+Frederick Solis,Collierstad,115909,390,29620,6,45,FALSE
+Kevin Warren,Harrellmouth,95435,526,22827,10,50,FALSE
+Mark Schmidt,Port Michael,81856,451,16484,6,45,FALSE
+Craig Morrison,East Stephaniefort,145957,775,37944,37,85,TRUE
+Thomas Cunningham,Michellemouth,149871,454,29820,4,45,FALSE
+Mark Hogan,West Williamport,114259,772,30616,2,75,TRUE
+Ronald Jones,New Brookefurt,90142,773,39032,35,75,TRUE
+Nancy Williams,West Cassidy,48726,813,10886,3,65,TRUE
+Robert Monroe,New Debbieton,64718,553,47374,28,35,FALSE
+Kelly Bishop MD,Paulmouth,48301,353,42345,21,25,FALSE
+Brandon Gregory,Johnathanberg,62325,641,6341,37,60,TRUE
+Sydney Collins,Andersonland,127647,617,37629,24,65,TRUE
+Erin Anderson,Lake Ellenhaven,103579,670,2194,23,85,TRUE
+Trevor Peterson,Leeberg,100644,458,6057,18,60,TRUE
+Ashley Wise,Lake Matthewberg,64438,685,11109,10,70,TRUE
+Michael Weber,Lake Samuel,127912,720,24874,15,80,TRUE
+Lisa Goodwin,Youngbury,106622,616,31737,12,65,TRUE
+Travis Joyce,Hammondfurt,86155,814,35567,26,80,TRUE
+Ruth Solis,Port John,147679,792,25327,35,90,TRUE
+Michelle Black,West Christopherburgh,106484,579,30446,32,50,FALSE
+Jeffrey Potts,Port Shannon,82350,657,2747,26,70,TRUE
+Jonathan Young,West Jeffreymouth,77447,401,47838,21,40,FALSE
+Brenda Mitchell,Hortonberg,58746,780,30399,39,70,TRUE
+Bobby Scott,New Shelby,48131,840,28738,7,60,TRUE
+Cynthia Martinez,South Danielle,96784,768,5116,7,85,TRUE
+Kathryn Herrera,Lake Douglas,94686,739,1102,39,80,TRUE
+Kenneth Lopez,New Theresaland,41915,838,36656,32,65,TRUE
+Katie Smith,Williamsfurt,129061,682,17623,1,65,TRUE
+Austin Allen,Port Bonniemouth,36175,436,3905,22,35,FALSE
+Robin Thompson,Pollardfort,142866,486,9837,4,50,FALSE
+Terri Johnson,North Kylie,44371,342,21682,19,25,FALSE
+Virginia Daniels,Benjaminborough,50033,592,24394,3,40,FALSE
+Evelyn Martinez,Samuelfurt,112240,750,26339,21,90,TRUE
+Kathleen Jimenez,Lauriechester,50969,380,29220,38,35,FALSE
+Catherine Carter MD,Donnaport,133819,756,40493,27,85,TRUE
+Jeremy West,Christinachester,119192,581,42908,3,55,FALSE
+Mark Cox,North Douglas,85333,748,3280,8,85,TRUE
+Richard Diaz,Herrington,108172,457,45503,28,45,FALSE
+Jacqueline Hines,New Michael,38326,621,43569,17,40,FALSE
+Brian Fitzgerald,Holmesside,80432,420,18155,16,50,FALSE
+Cindy Carr,Gonzalezberg,80019,375,30625,11,45,FALSE
+Jill Miller,Elizabethland,108104,597,20657,10,70,TRUE
+Tammy Little,Williamville,91348,505,10101,15,50,FALSE
+Allison Spencer,Tannerside,99352,432,41104,5,35,FALSE
+James Love,Foxchester,62953,375,9213,20,45,FALSE
+Joanna Frazier,Davidside,102512,486,9456,27,60,TRUE
+Sheena Guerra,West Fred,142824,630,47486,14,65,TRUE
+Todd Jacobson,West Jamesside,31504,581,9203,40,45,FALSE
+Joseph Shaw,New Shelly,119166,457,12219,39,55,FALSE
+Lisa Kirby,Port Michelleland,124466,346,43038,36,50,FALSE
+Daniel Armstrong,South Pamelaside,45014,596,43068,19,40,FALSE
+Dr. Michael Evans,Lake Brianmouth,119353,725,32735,29,75,TRUE
+Lawrence Edwards,Jessicastad,145970,708,9569,23,85,TRUE
+Ashley Allen,West Shannonberg,100381,399,4316,18,60,TRUE
+Sharon Barnes,Port Mark,128419,620,13440,10,70,TRUE
+Mr. Jonathan Parker Jr.,Wagnerbury,64973,520,39230,22,35,FALSE
+Douglas Harper,Mitchelltown,130741,410,29241,8,50,FALSE
+Monica Gallagher,Brandonton,114012,499,24758,35,55,FALSE
+James Cole,Marciaville,74587,431,7336,25,50,FALSE
+William Grant,Kariborough,44621,821,27305,32,65,TRUE

@@ -1,0 +1,201 @@
+student_id,name,gender,age,education,joining_year,city,online_cls_taken
+1058,Jessica Ortega,Male,22,Bachelors,2015,Pune,FALSE
+1117,Peter Davila,Male,34,Bachelors,2016,Pune,FALSE
+1152,James Duncan,Female,28,Bachelors,2015,Bangalore,TRUE
+1166,Jason Ramirez,Female,32,Bachelors,2016,Bangalore,FALSE
+1258,Matthew Massey,Male,28,Masters,2017,New Delhi,TRUE
+1387,David Aguilar,Female,25,Bachelors,2013,Bangalore,TRUE
+1436,Joshua Juarez,Male,24,Bachelors,2015,Pune,TRUE
+1452,Benjamin Vance,Male,23,PHD,2017,New Delhi,FALSE
+1470,Kimberly Blair,Female,39,Bachelors,2018,Bangalore,FALSE
+1474,Daniel Hood,Male,32,Bachelors,2017,Bangalore,FALSE
+1508,Michael Cooley,Female,34,Bachelors,2015,New Delhi,FALSE
+1674,John Sexton,Female,26,Bachelors,2015,Bangalore,FALSE
+1715,Miss Teresa Hernandez MD,Female,28,Bachelors,2016,Bangalore,FALSE
+1745,Collin Peterson,Female,22,Bachelors,2018,Bangalore,TRUE
+1821,James Reynolds,Male,30,Bachelors,2015,Pune,FALSE
+1823,Antonio Hansen,Male,34,Bachelors,2014,New Delhi,FALSE
+1861,Justin Clark,Male,26,Masters,2017,New Delhi,FALSE
+1949,James,Male,23,Bachelors,2016,Pune,FALSE
+1960,Cynthia Sloan,Female,34,Bachelors,2014,Bangalore,TRUE
+1996,Robert Howard,Female,28,Bachelors,2017,Bangalore,FALSE
+2029,Connie Cooper,Female,25,Masters,2012,Bangalore,FALSE
+2035,Eric Davis,Male,29,Bachelors,2015,Pune,FALSE
+2040,Emma,Female,24,Masters,2017,Pune,TRUE
+2099,Jennifer Baker,Female,27,Bachelors,2012,New Delhi,FALSE
+2127,Donna Taylor,Female,36,Masters,2017,New Delhi,FALSE
+2139,Annette Medina,Male,37,Bachelors,2014,Pune,FALSE
+2169,Tiffany Smith,Female,23,Bachelors,2016,Bangalore,TRUE
+2208,Stephanie Lawrence,Female,27,Masters,2017,New Delhi,TRUE
+2229,Frank Dawson,Male,24,Bachelors,2017,New Delhi,TRUE
+2279,Brandon Williamson,Male,27,Bachelors,2012,Pune,FALSE
+2476,Jeffrey Howard,Male,39,Masters,2017,New Delhi,TRUE
+2501,Paul Reese,Male,26,Bachelors,2013,Bangalore,TRUE
+2530,Christopher Chapman,Male,34,Bachelors,2016,Bangalore,TRUE
+2592,Natalie Kelley,Male,24,Masters,2017,Pune,FALSE
+2604,Derrick Alexander,Male,29,Bachelors,2017,Bangalore,FALSE
+2647,David Nunez,Male,25,Bachelors,2015,Pune,FALSE
+2669,Lisa Castillo,Female,31,Bachelors,2017,Bangalore,FALSE
+2746,Carrie Page,Male,30,Bachelors,2013,Pune,TRUE
+2747,Brooke Friedman,Female,22,Bachelors,2017,Bangalore,TRUE
+2771,Maria Cross,Female,34,Bachelors,2016,Pune,FALSE
+2821,Tristan Avila,Male,28,Bachelors,2012,New Delhi,TRUE
+2923,Elizabeth Andersen,Female,28,Bachelors,2014,Bangalore,FALSE
+2976,Patricia Carr,Male,30,Bachelors,2012,Bangalore,FALSE
+3068,Gregory Davila,Male,25,Bachelors,2015,Pune,FALSE
+3112,James Stewart,Male,24,Bachelors,2015,Pune,FALSE
+3114,Ronnie Taylor,Female,24,Bachelors,2014,New Delhi,TRUE
+3184,Michelle Benjamin,Male,36,Masters,2017,Pune,TRUE
+3252,Anthony Dunn,Male,26,Bachelors,2018,Bangalore,FALSE
+3267,Nathan Riley,Male,36,PHD,2013,Bangalore,TRUE
+3340,Alex,Male,38,Bachelors,2014,New Delhi,FALSE
+3421,Keith Wu,Female,27,Masters,2017,New Delhi,TRUE
+3430,Rebecca Brown,Male,25,Bachelors,2017,Bangalore,FALSE
+3440,Kathy Sandoval,Male,27,Bachelors,2017,New Delhi,FALSE
+3442,Jeremy Hall,Female,37,Bachelors,2014,Bangalore,FALSE
+3485,Lisa Benjamin,Female,40,Masters,2017,Pune,FALSE
+3535,Mrs. Jill Long,Male,25,Bachelors,2012,Bangalore,FALSE
+3536,James Smith,Female,34,Bachelors,2014,Pune,FALSE
+3695,Morgan Bell,Male,26,Bachelors,2017,New Delhi,TRUE
+3705,Isabella,Female,37,Masters,2017,New Delhi,TRUE
+3730,Dawn Morton,Male,28,Bachelors,2018,Bangalore,TRUE
+3875,Tonya Thompson,Female,24,Bachelors,2018,Bangalore,FALSE
+3880,Jill Williams,Male,27,Bachelors,2016,Pune,TRUE
+3900,Michael Sampson,Male,31,Masters,2013,New Delhi,FALSE
+3902,Jaime Nguyen,Female,28,Masters,2013,New Delhi,FALSE
+3950,Amanda Hernandez,Female,28,Bachelors,2017,New Delhi,FALSE
+3972,Robert Lowery,Female,26,Bachelors,2018,Bangalore,TRUE
+4060,Melvin Mcgee,Male,24,Bachelors,2016,Bangalore,FALSE
+4115,Lisa Zimmerman,Male,36,Bachelors,2017,Bangalore,FALSE
+4122,Gregory Turner,Male,38,Bachelors,2017,Bangalore,FALSE
+4139,James Williams,Male,37,Bachelors,2012,Bangalore,TRUE
+4147,Lori Miller,Male,38,Bachelors,2015,Bangalore,TRUE
+4261,William Hogan,Male,27,Masters,2017,Pune,TRUE
+4271,Diana Gould,Male,27,Bachelors,2017,Pune,FALSE
+4340,Ryan Williams,Female,28,Bachelors,2015,Bangalore,-
+4394,Amanda Bowers,Female,28,Bachelors,2018,Bangalore,FALSE
+4404,Megan Diaz,Male,28,Bachelors,2013,Bangalore,TRUE
+4510,Katherine Gray,Female,32,Bachelors,2018,Pune,TRUE
+4595,Justin Martin,Male,27,Bachelors,2018,Bangalore,TRUE
+4678,Allison Hamilton,Female,26,Bachelors,2012,Bangalore,FALSE
+4711,Dawn Taylor,Female,25,PHD,2015,Pune,TRUE
+4804,Joyce Williams,Male,32,Bachelors,2013,Pune,TRUE
+4824,Sharon Watson,Male,40,PHD,2018,Bangalore,TRUE
+4846,Maria Carter,Female,27,Bachelors,2014,Bangalore,TRUE
+4853,Brittany Sutton,Female,22,Bachelors,2017,Pune,FALSE
+4919,Angela Dunn,Female,30,Bachelors,2015,Bangalore,TRUE
+4972,Michael Mata,Male,26,Bachelors,2014,Bangalore,-
+5059,David Hoffman,Male,28,Bachelors,2015,Bangalore,TRUE
+5080,Derek Parks,Female,27,Bachelors,2012,Bangalore,TRUE
+5089,Robert Martinez,Male,28,Bachelors,2012,Bangalore,TRUE
+5102,Randall Hickman,Male,25,Bachelors,2013,Bangalore,FALSE
+5128,Patricia Greer,Female,26,PHD,2018,New Delhi,TRUE
+5186,John Warner,Male,28,Masters,2015,New Delhi,TRUE
+5285,Joseph Davis,Female,28,Masters,2017,New Delhi,FALSE
+5386,Sarah,Female,28,Bachelors,2013,Pune,TRUE
+5497,Nathan Navarro,Male,34,PHD,2015,New Delhi,FALSE
+5670,Amy Rodriguez,Male,24,Bachelors,2014,Bangalore,FALSE
+5676,Jonathan Hodges,Female,28,Bachelors,2013,Bangalore,FALSE
+5681,Anthony Green,Female,25,Masters,2018,New Delhi,FALSE
+5772,Judith Santos,Male,28,Bachelors,2018,Bangalore,TRUE
+5905,David Robertson,Male,27,Bachelors,2013,Bangalore,TRUE
+5930,Alexandra Harrington,Female,30,Bachelors,2017,New Delhi,TRUE
+6091,Sarah Young,Male,39,Masters,2014,New Delhi,FALSE
+6123,Nathaniel Kemp,Female,26,Bachelors,2014,Bangalore,TRUE
+6170,Michael Burns,Female,24,Bachelors,2017,Pune,TRUE
+6179,Joshua Kane,Male,27,Masters,2013,New Delhi,FALSE
+6280,Patricia Cox,Female,38,Bachelors,2015,Bangalore,FALSE
+6400,Diana Schultz,Female,27,Bachelors,2017,Bangalore,FALSE
+6417,Shirley Jackson,Male,28,Bachelors,2017,New Delhi,TRUE
+6447,Nicholas Robinson DDS,Male,27,Bachelors,2013,Bangalore,FALSE
+6489,Julia Russell,Male,25,Bachelors,2012,Bangalore,FALSE
+6517,Larry Brown,Female,28,Bachelors,2018,Bangalore,TRUE
+6562,Manuel Baker,Female,28,Bachelors,2012,Pune,FALSE
+6617,Susan Brown,Male,29,Bachelors,2014,Bangalore,TRUE
+6658,John White,Female,28,Bachelors,2014,New Delhi,FALSE
+6669,Adam Blackwell,Male,25,Bachelors,2013,Bangalore,FALSE
+6727,Paul Hull,Male,28,Masters,2012,New Delhi,TRUE
+6752,Jessica Lamb,Male,24,Bachelors,2012,Bangalore,FALSE
+6766,Christina Thompson,Male,25,Bachelors,2014,Bangalore,TRUE
+6804,Megan Miller,Male,39,Bachelors,2016,Bangalore,FALSE
+6862,Peter Jones,Female,23,PHD,2012,New Delhi,TRUE
+6922,George Cannon,Male,25,Bachelors,2013,Pune,TRUE
+6928,Sarah Ross,Male,26,Bachelors,2015,Bangalore,TRUE
+6930,Michael,Male,27,Masters,2016,Bangalore,FALSE
+6931,Andrew Wilkerson,Female,25,Bachelors,2017,Bangalore,TRUE
+6942,Derek Choi,Female,25,Bachelors,2017,Bangalore,FALSE
+6967,Daniel Mathis,Male,40,Bachelors,2016,Bangalore,FALSE
+6992,Angelica Steele,Female,31,Bachelors,2014,Pune,FALSE
+7077,Rebekah Finley,Male,28,Bachelors,2017,New Delhi,FALSE
+7163,Alexis Horn,Male,28,PHD,2016,New Delhi,TRUE
+7242,Gregory Daniels,Male,27,Bachelors,2016,New Delhi,FALSE
+7267,Daniel Erickson,Male,30,Masters,2017,New Delhi,FALSE
+7325,Lori Gomez PhD,Female,25,Bachelors,2016,Bangalore,TRUE
+7338,Lawrence Roberts,Female,26,Masters,2017,New Delhi,FALSE
+7464,Deanna Gonzalez,Female,26,Bachelors,2013,Bangalore,FALSE
+7512,Peter Welch,Female,36,Bachelors,2012,Pune,TRUE
+7563,Trevor Freeman,Male,25,Bachelors,2017,Bangalore,FALSE
+7594,Alexander Preston,Female,31,Bachelors,2013,Bangalore,TRUE
+7626,Courtney Haas,Male,25,Bachelors,2013,New Delhi,FALSE
+7690,Michelle Jones,Female,25,Bachelors,2017,New Delhi,FALSE
+7691,Scott Davidson,Male,37,Bachelors,2014,Bangalore,TRUE
+7697,Robert Davis,Male,27,Bachelors,2014,Bangalore,TRUE
+7770,Sarah Johnson,Male,23,Bachelors,2018,Bangalore,FALSE
+7785,Brent Burns,Male,26,Masters,2013,New Delhi,FALSE
+7797,Ruth Davis,Male,25,Masters,2017,Bangalore,TRUE
+7812,Shelby Mahoney,Male,39,Bachelors,2014,Pune,TRUE
+7813,Jennifer Wiggins,Female,,Bachelors,2014,Pune,FALSE
+7906,Lynn Anderson,Male,30,Bachelors,2015,Bangalore,TRUE
+7912,Jacob Murray,Male,26,Bachelors,2014,Bangalore,FALSE
+8030,Heather Johnson,Female,28,Bachelors,2012,Pune,TRUE
+8135,Kimberly Wood,Female,28,Bachelors,2015,Pune,TRUE
+8149,Yolanda Chen,Male,26,Bachelors,2015,Pune,FALSE
+8177,Shannon Harrison,Male,27,Masters,2012,Bangalore,TRUE
+8178,Michael Smith,Male,24,Bachelors,2015,Bangalore,TRUE
+8202,Leon Nguyen,Female,25,Bachelors,2013,Pune,TRUE
+8216,Rebecca Smith,Male,34,Bachelors,2016,Bangalore,TRUE
+8237,Taylor Merritt DVM,Female,30,Bachelors,2015,Pune,FALSE
+8292,Leslie King,Female,24,Bachelors,2013,Bangalore,FALSE
+8311,Steven Crawford,Female,26,Bachelors,2017,Bangalore,FALSE
+8342,Gail Dudley,Female,36,Bachelors,2014,Bangalore,TRUE
+8366,Justin Martinez,Female,27,Bachelors,2014,Bangalore,TRUE
+8381,Joseph Adams,Female,24,Bachelors,2015,Bangalore,FALSE
+8433,Kimberly Harrison,Male,25,Masters,2014,New Delhi,TRUE
+8451,Tonya Gonzalez,Male,40,Bachelors,2013,Bangalore,FALSE
+8461,Jerry Browning,Female,29,Masters,2014,Pune,FALSE
+8618,Richard Johnson,Female,29,PHD,2013,New Delhi,FALSE
+8619,Mitchell Sanders,Female,26,Bachelors,2014,Pune,TRUE
+8657,Adam Carlson,Female,25,Bachelors,2014,Bangalore,TRUE
+8684,Edward Baker,Female,26,Bachelors,2015,Bangalore,FALSE
+8685,John King,Male,27,Bachelors,2012,Pune,TRUE
+8708,David Hernandez,Male,27,Masters,2016,New Delhi,FALSE
+8753,John West,Male,29,Bachelors,2013,New Delhi,FALSE
+8814,Andrea Frey,Female,23,Bachelors,2016,Bangalore,TRUE
+8837,Ronald Stewart,Male,24,Masters,2014,Pune,FALSE
+8840,Jill Smith,Male,24,Masters,2017,Bangalore,FALSE
+8849,Darrell Adams,Female,27,Masters,2013,New Delhi,FALSE
+8932,Ronald Schmidt,Male,25,Bachelors,2013,Pune,TRUE
+9011,Courtney Bradley,Female,28,Bachelors,2016,Bangalore,TRUE
+9022,Laura Cortez,Female,31,Masters,2014,New Delhi,TRUE
+9159,Jasmine Williams,Male,28,Bachelors,2012,Bangalore,FALSE
+9165,Gerald Weber,Male,37,PHD,2012,New Delhi,FALSE
+9196,Christopher Baxter,Female,26,Bachelors,2014,Bangalore,FALSE
+9201,Daniel,Male,38,Bachelors,2015,New Delhi,FALSE
+9214,Tracy Gibbs,Female,26,Bachelors,2017,New Delhi,TRUE
+9234,Andrew Owens,Male,28,Bachelors,2012,Bangalore,TRUE
+9289,Theresa Rodriguez,Male,31,Bachelors,2016,Bangalore,TRUE
+9307,Shari Harrell,Male,24,Bachelors,2017,Bangalore,TRUE
+9311,Michael Webb,Male,27,Bachelors,2016,Bangalore,FALSE
+9331,Brent Mendoza,Female,26,Bachelors,2015,Bangalore,FALSE
+9561,Desiree Reyes,Female,26,Masters,2016,Pune,TRUE
+9576,Michaela Powell,Female,25,Masters,2018,Pune,FALSE
+9617,Dawn Foster,Male,27,Bachelors,2013,Bangalore,FALSE
+9633,Melissa Barber,Male,25,Bachelors,2015,Bangalore,TRUE
+9751,Mark Hartman,Male,35,PHD,2013,Bangalore,FALSE
+9797,Olivia,Female,22,Bachelors,2016,Bangalore,FALSE
+9798,Adam Weaver,Male,26,Bachelors,2017,Pune,TRUE
+9837,Sophia,Female,34,Bachelors,2016,Bangalore,TRUE
+9850,Alison Lang,Male,28,Bachelors,2016,New Delhi,FALSE
+9937,William Banks,Female,26,Bachelors,2014,New Delhi,FALSE
+9976,James Woods,Male,23,Masters,2013,New Delhi,TRUE
+9998,Grace Valencia,Female,23,Bachelors,2017,Bangalore,TRUE
